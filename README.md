@@ -1,10 +1,10 @@
-# Web Application Documentation for ATM Simulation Innovitics inc.
+# Web Application Documentation for Aura Systems as aTask.
 
 ## Introduction
 Welcome to a web application using REST APIs. The application provide the simple service of operations with database.
 
 ### Technologie and Design
-C#, OOP, DI, N-tiers, ASP.Net web API, Entity Framework (EF) and LINQ.
+C#, OOP, DI, N-tiers, ASP.Net web API, Entity Framework (EF) and LINQ. <br />
 HTML, Bootstrap, jQuery and AJAX.
 
 ### Packages
